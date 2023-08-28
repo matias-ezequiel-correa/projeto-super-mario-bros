@@ -10,10 +10,10 @@
 
 ## Desing: 
 * Desktop:
-<img height="400em" src="./src/design/desktop-design.png" alt="Projeto Super Mario Bros - Versão Desktop">
+[<p align="center"><img height="400em" src="./src/design/desktop-design.PNG" alt="Projeto Super Mario Bros - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-super-mario-bros/)<p>
 
 * Mobile:
-<img height="400em" src="./src/design/mobile-design.png" alt="Projeto Super Mario Bros - Versão Mobile">
+[<p align="center"><img height="400em" src="./src/design/mobile-design.PNG" alt="Projeto Super Mario Bros - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-super-mario-bros/)<p>
 
 ### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-super-mario-bros/" target="_blank">matias-ezequiel-correa.github.io/projeto-super-mario-bros/</a>
 
